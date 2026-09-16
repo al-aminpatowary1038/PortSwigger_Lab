@@ -1,2 +1,2 @@
 # PortSwigger_Lab
-Portswigger All Labs solutions 
+This repository contains solutions for all PortSwigger labs.
