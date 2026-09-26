@@ -1,0 +1,5 @@
+new line in url: %0D%0a
+space in url : %20 
+
+csrf changre using image file load: 
+    <img src="url%3b%20SameSite=None" onerror="document.forms[0].submit"
